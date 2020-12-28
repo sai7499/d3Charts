@@ -1,0 +1,63 @@
+{
+  "scatterChartData": [
+    {
+      "Framework": "Vue",
+      "Stars": "166443",
+      "Released": "2014"
+    },
+    {
+      "Framework": "React",
+      "Stars": "150793",
+      "Released": "2013"
+    },
+    {
+      "Framework": "Angular",
+      "Stars": "62342",
+      "Released": "2016"
+    },
+    {
+      "Framework": "Backbone",
+      "Stars": "27647",
+      "Released": "2010"
+    },
+    {
+      "Framework": "Ember",
+      "Stars": "21471",
+      "Released": "2011"
+    }
+  ],
+  "sampleJSONData": [
+    {
+      "Grade": "A",
+      "Students": 20
+    },
+    {
+      "Grade": "B",
+      "Students": 12
+    },
+    {
+      "Grade": "C",
+      "Students": 47
+    },
+    {
+      "Grade": "D",
+      "Students": 34
+    },
+    {
+      "Grade": "E",
+      "Students": 54
+    },
+    {
+      "Grade": "F",
+      "Students": 21
+    },
+    {
+      "Grade": "G",
+      "Students": 57
+    },
+    {
+      "Grade": "H",
+      "Students": 31
+    }
+  ]
+}
